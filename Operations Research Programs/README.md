@@ -1,2 +1,2 @@
 # Inhalte der Veranstaltung Operations Research
-Algorithmen der Übungen in Code
+Algorithmen der Übungen in Code.
